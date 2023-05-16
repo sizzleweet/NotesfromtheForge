@@ -1,6 +1,5 @@
----
-obsidianUIMode: preview
----
+![image](https://github.com/sizzleweet/NotesfromtheForge/assets/21340653/ef4d4148-33c0-4a00-a1cf-7ded81ff5710)
+
 # Readme
 Notes from the Forge is a starter vault for Obsidian used to play Ironsworn: Starforged.
 
