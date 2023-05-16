@@ -34,5 +34,12 @@ All other icons from [game-icons.net](https://game-icons.net) by Delapouite, et.
 Planet Images from [Josh Meehan Art](https://joshmeehanart.com/) 
 Get them here: https://joshmeehanart.itch.io/starforged-planet-tokens
 
+#PLUGIN Code:
+Any code from the actual plugins is property of their respective owners. 
 
+# My code
+
+Any code included in the shortcut files is written by me or covered under the Forged in Obsidian license and released into the public domain.
+
+Please consider attributing any work derivative or inspired by mine to me with a link or mention. :D
 
