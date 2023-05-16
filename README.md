@@ -5,7 +5,7 @@ This project is heavily borrowed from AND inspired by [Forged in Obsidian](https
 
 Thanks a ton Eric Bright for your help along the way.
 
-Other big shoutouts go to [https://linktr.ee/shawntomkin](Shawn Tomkin) the creator of [https://www.ironswornrpg.com/](Ironsworn) and [https://joshmeehanart.com/](Josh Meehan) for his incredible artwork (see the license file for more details.
+Other big shoutouts go to [Shawn Tomkin](https://linktr.ee/shawntomkin) the creator of [Ironsworn](https://www.ironswornrpg.com/) and [Josh Meehan](https://joshmeehanart.com/) for his incredible artwork (see the license file for more details.
 
 # Release Notes
 
