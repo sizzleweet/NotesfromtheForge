@@ -19,3 +19,10 @@ See the [license file](https://github.com/sizzleweet/NotesfromtheForge/blob/main
 # Instructions
 
 Download files and open in Obsidian.  The main instructions on using the vault are contained in the "Manual" document.  It works much better opening that from within obsidian due to the image and callout formatting etc.
+
+
+# Still to do:
+
+Add all the oracles to the mix. I'll eventually have them all in there so you can roll on them in your journal or whatever.
+I want to create a first look NPC, planet, settlement generator like in stargazer
+Play the game at some point... that'd be neat too. 
