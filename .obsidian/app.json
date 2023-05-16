@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "showFrontmatter": false,
+  "attachmentFolderPath": "/",
+  "newFileLocation": "current"
+}

@@ -1,0 +1,34 @@
+{
+  "returnAllTags": true,
+  "rollLinksForTags": false,
+  "copyContentButton": true,
+  "customFormulas": [],
+  "displayFormulaForMod": false,
+  "displayResultsInline": false,
+  "displayFormulaAfter": false,
+  "displayLookupRoll": true,
+  "formulas": {},
+  "persistResults": true,
+  "results": {
+    "Untitled.md": {
+      "10": {
+        "0": {
+          "type": "dice",
+          "result": 5,
+          "tooltip": "1d6\n[5]"
+        }
+      }
+    }
+  },
+  "defaultRoll": 1,
+  "defaultFace": 100,
+  "renderer": true,
+  "renderAllDice": false,
+  "renderTime": 0,
+  "diceColor": "#ffea00",
+  "textColor": "#ff00dd",
+  "showLeafOnStartup": true,
+  "showDice": true,
+  "displayAsEmbed": true,
+  "round": "None"
+}

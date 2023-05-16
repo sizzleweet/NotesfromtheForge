@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "snippets",
+    "callout-snippets"
+  ],
+  "cssTheme": "80s Neon",
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "showViewHeader": true
+}
