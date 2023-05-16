@@ -27,6 +27,6 @@ See the [license file](https://github.com/sizzleweet/NotesfromtheForge/blob/main
 
 # Still to do:
 
-Add all the oracles to the mix. I'll eventually have them all in there so you can roll on them in your journal or whatever.
-I want to create a first look NPC, planet, settlement generator like in stargazer
-Play the game at some point... that'd be neat too. 
+- Add all the oracles to the mix. I'll eventually have them all in there so you can roll on them in your journal or whatever.
+- I want to create a first look NPC, planet, settlement generator like in [stargazer](https://nboughton.uk/apps/stargazer/#/)
+- Play the game at some point... that'd be neat too. 
