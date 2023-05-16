@@ -11,7 +11,9 @@ For more information about what you can do with the license, see the [*Ironsworn
 
 ## Forged in Obsidian
 
-Truly the inspiration (and source) of most of this project.  Please check it out.  It's much more polished then this, and to be honest this project wouldn't exist without it.
+Truly the inspiration (and source) of most of this project. Even this license file is mostly taken from him :D.
+
+Please check it out.  It's much more polished then this, and to be honest this project wouldn't exist without it.
 
 Specifically the images from the move dice rolls and the skeleton of the inline script "move" shortcut
 
