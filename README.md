@@ -1,3 +1,6 @@
+---
+obsidianUIMode: preview
+---
 # Readme
 Notes from the Forge is a starter vault for Obsidian used to play Ironsworn: Starforged.
 
@@ -18,7 +21,9 @@ See the [license file](https://github.com/sizzleweet/NotesfromtheForge/blob/main
 
 # Instructions
 
-Download files and open in Obsidian.  The main instructions on using the vault are contained in the "Manual" document.  It works much better opening that from within obsidian due to the image and callout formatting etc.
+- Download files and open the vault in Obsidian.  
+- The main instructions on using the vault are contained in the [[Manual]]. 
+- It works much better opening that from within obsidian due to the image and callout formatting etc.
 
 
 # Still to do:

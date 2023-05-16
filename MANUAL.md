@@ -1,3 +1,6 @@
+---
+obsidianUIMode: preview
+---
 
 # Intro
 

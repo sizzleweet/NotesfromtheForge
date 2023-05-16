@@ -11,8 +11,12 @@
             "id": "9546e1f2a1b283be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -27,6 +31,7 @@
       {
         "id": "4d3bfabc8804a82b",
         "type": "tabs",
+        "dimension": 57.733050847457626,
         "children": [
           {
             "id": "ee99e1cf44651e41",
@@ -59,6 +64,25 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8206cc993a26f6c7",
+        "type": "tabs",
+        "dimension": 42.266949152542374,
+        "children": [
+          {
+            "id": "9bc8085e5da92308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Moves/All_Moves.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -114,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -171,26 +199,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9546e1f2a1b283be",
   "lastOpenFiles": [
-    "README 1.md",
+    "4. Moves/All_Moves.md",
     "README.md",
     "1. Journal/1. LaunchPad.md",
-    "z_Oracles/ptp.md",
-    "LICENSE.md",
+    "1. Journal/z_JournalTemplate.md",
     "1. Journal/z_scratchpad.md",
-    "4. Moves/All_Moves.md",
+    "3. Locations/3. Sectors/z_SectorTemplate.md",
+    "1.2 Character/CharacterSheetDrawing.md",
+    "MANUAL.md",
+    "LICENSE.md",
+    "README 1.md",
+    "z_Oracles/ptp.md",
     "todo.md",
     "1.2 Character/AssetDrawing.md",
-    "1.2 Character/CharacterSheetDrawing.md",
-    "1. Journal/z_JournalTemplate.md",
     "3. Locations/1. Planets/z_PlanetTemplate.md",
     "3. Locations/2. Settlements/Z_SettlementTemplate.md",
-    "3. Locations/3. Sectors/z_SectorTemplate.md",
     "5. Lore/Weave.md",
     "3. Locations/3. Sectors/Vanguard Straits.md",
     "2. NPCs/Baddies/Mirage Desert Raider.md",
@@ -202,7 +230,6 @@
     "1.2 Character/2. Character Assets.md",
     "1.3 Progress/Defeat the Desert Raiders.md",
     "1.3 Progress/z_ProgressTemplate.md",
-    "1.3 Progress/Stop the damage to the Beacon.md",
     "z_Support/2. Images/z_Dice/Total/total-6-t.svg",
     "z_Support/2. Images/z_Dice/Stat/stat-10-t.svg",
     "z_Support/2. Images/z_Dice/Stat/stat-9-t.svg",

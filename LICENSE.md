@@ -1,3 +1,10 @@
+---
+obsidianUIMode: preview
+---
+# License
+
+## Ironsworn
+
 *Ironsworn: Starforged* is copyright ©2022 [Shawn Tomkin](https://www.ironswornrpg.com/) and [Absolute Tabletop, LLC](https://absolutetabletop.com/).
 
 For more information about what you can do with the license, see the [*Ironsworn* website](https://www.ironswornrpg.com/licensing).
