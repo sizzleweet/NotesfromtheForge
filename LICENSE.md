@@ -37,7 +37,7 @@ Get them here: https://joshmeehanart.itch.io/starforged-planet-tokens
 #PLUGIN Code:
 Any code from the actual plugins is property of their respective owners. 
 
-# My code
+## My code
 
 Any code included in the shortcut files is written by me or covered under the Forged in Obsidian license and released into the public domain.
 
